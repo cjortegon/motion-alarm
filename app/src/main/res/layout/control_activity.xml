@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/MainLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/startButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/mybutton"
+            android:padding="10dp"
+            android:text="@string/start_alarm_in"
+            android:textColor="@color/white" />
+
+        <LinearLayout
+            android:id="@+id/MiddleLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/background"
+            android:orientation="horizontal" >
+
+            <net.technologichron.android.control.NumberPicker
+                android:id="@+id/numberPicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+            </net.technologichron.android.control.NumberPicker>
+
+            <TextView
+                android:id="@+id/seconds"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="@string/seconds" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/MiddleLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/background"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/calibrateButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/mybutton"
+                android:padding="10dp"
+                android:text="@string/calibrate_sensors"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/alarmSelectionButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/mybutton"
+                android:padding="10dp"
+                android:text="@string/alarms"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sensibilityText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/sensibility" />
+
+        <SeekBar
+            android:id="@+id/sensibilityBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.mountainreacher.sponsor.AdsView
+            android:id="@+id/sponsor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </com.mountainreacher.sponsor.AdsView>
+    </LinearLayout>
+
+    <com.mountainreacher.motionalarm.TimerView
+        android:id="@+id/timerAnimation"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </com.mountainreacher.motionalarm.TimerView>
+
+</FrameLayout>

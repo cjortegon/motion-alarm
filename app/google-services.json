@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "842650840887",
+    "firebase_url": "https://admob-app-id-2112217522.firebaseio.com",
+    "project_id": "admob-app-id-2112217522",
+    "storage_bucket": "admob-app-id-2112217522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842650840887:android:4dca399e1026b5d5",
+        "android_client_info": {
+          "package_name": "com.mountainreacher.motionalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842650840887-5h4fa49blv394hg1fbbq6g7a9urrka3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81T79Ye_E6M_lchYiR654R599Jm5o0xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-0360613478597349~3259013121"
+    }
+  ],
+  "configuration_version": "1"
+}

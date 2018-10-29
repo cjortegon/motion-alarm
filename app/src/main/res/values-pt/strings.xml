@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarme de Movimento</string>
+    <string name="about">About Us</string>
+    <string name="help">Ajuda</string>
+    <string name="rate">Qualificar App</string>
+    <string name="contact">Comente aqui</string>
+    <string name="share">Share to friends</string>
+    <string name="alarms">Alarms</string>
+    <string name="select_sound">Select sound</string>
+    <string name="about_title">About Mountain Reacher</string>
+    <string name="about_body">Meu nome é Camilo, eu estudo Engenharia de Sistemas e Telemática Engenharia da Universidade ICESI em Cali, Colômbia.</string>
+    <string name="help_title">Ajuda</string>
+    <string name="help_body">Deixe o seu dispositivo ainda em uma superfície plana e pressione o botão Calibrar sensores primeiro a garantir o melhor desempenho do aplicativo. Role a seekbar para coincidir com a sensibilidade que você quiser, colocar em quanto tempo (em segundos) em que o alarme para iniciar e alarme pressione Start.</string>
+    <string name="start_alarm_in">Comece alarme em</string>
+    <string name="turn_off_alarm">Desativar o alarme</string>
+    <string name="seconds">segundos</string>
+    <string name="calibrate_sensors">Calibrar sensores</string>
+    <string name="sensibility">Sensibilidade</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="calibrate_title">Calibrar os sensores</string>
+    <string name="calibrate_text">Por favor, deixe o dispositivo ainda durante 3 segundos.</string>
+    <string name="selected_sound">Som selecionado: </string>
+    <string name="exit">Saída</string>
+    <string name="cancel">Cancelar</string>
+    <string name="do_u_want_exit">Você quer sair?</string>
+    <string name="starting">Começando</string>
+    <string name="ready_to_use">Pronto para usar</string>
+    <string name="choose">Escolher</string>
+
+</resources>

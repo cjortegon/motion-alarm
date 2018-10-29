@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarme de mouvement</string>
+    <string name="about">Qui sommes-nous</string>
+    <string name="help">Aider</string>
+    <string name="rate">Qualifier App</string>
+    <string name="contact">Commentaire ici</string>
+    <string name="share">Partager à des amis</string>
+    <string name="alarms">Alarmes</string>
+    <string name="select_sound">Sélectionnez le son</string>
+    <string name="about_title">À propos de Mountain Reacher</string>
+    <string name="about_body">Mon nom est Camilo, je étudie la ingénierie des systèmes et télématique Ingénierie à la Université ICESI à Cali, en Colombie.</string>
+    <string name="help_title">Aide</string>
+    <string name="help_body">Laissez votre appareil toujours sur une surface plane et appuyez de abord sur le bouton Calibrer les capteurs pour assurer la meilleure performance de la application. Faites défiler la barre de recherche pour correspondre à la sensibilité que vous voulez, mettez en combien de temps (en secondes) que vous voulez que la alarme pour commencer et alarme, appuyez sur Start.</string>
+    <string name="start_alarm_in">Lancer alarme</string>
+    <string name="turn_off_alarm">Désactiver alarme</string>
+    <string name="seconds">secondes</string>
+    <string name="calibrate_sensors">Étalonner les capteurs</string>
+    <string name="sensibility">Sensibilité</string>
+    <string name="alarm_on">Alarme activée</string>
+    <string name="alarm_off">Alarme désactivée</string>
+    <string name="calibrate_title">Calibrage des capteurs</string>
+    <string name="calibrate_text">Si il vous plaît laissez la appareil encore pendant 3 secondes.</string>
+    <string name="selected_sound">Son sélectionné: </string>
+    <string name="exit">Sortie</string>
+    <string name="cancel">Annuler</string>
+    <string name="do_u_want_exit">Voulez-vous quitter?</string>
+    <string name="starting">Initier</string>
+    <string name="ready_to_use">Prêt à l´emploi</string>
+    <string name="choose">Choisir</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarma de movimiento</string>
+    <string name="about">Acerca</string>
+    <string name="help">Ayuda</string>
+    <string name="rate">Calificar</string>
+    <string name="contact">Comentar app</string>
+    <string name="share">Compartir app</string>
+    <string name="alarms">Alarms</string>
+    <string name="select_sound">Select sound</string>
+    <string name="about_title">Acerca de Mountain Reacher</string>
+    <string name="about_body">Mi nombre es Camilo, estudio Ingeniería de Sistemas y Telemática en la Universidad ICESI en Cali, Colombia. </string>
+    <string name="help_title">Ayuda</string>
+    <string name="help_body">Ponga su dispositivo en una superficie plana y precione el boton Calibrate sensors para calibrar los sensores. Deslice la barra para establecer el nivel de sensiblidad, ponga cuanto tiempo quiere para que inicie su alarma (en segundos) y finalmente precione Start alarm.</string>
+    <string name="start_alarm_in">Iniciar alarma en</string>
+    <string name="turn_off_alarm">Apagar alarma</string>
+    <string name="seconds">segundos</string>
+    <string name="calibrate_sensors">Calibrar sensores</string>
+    <string name="sensibility">Sensibilidad</string>
+    <string name="alarm_on">Alarm prendida</string>
+    <string name="alarm_off">Alarm apagada</string>
+    <string name="calibrate_title">Calibrando los sensores</string>
+    <string name="calibrate_text">Por favor no mueva su dispositivo por 3 segundos.</string>
+    <string name="selected_sound">Sonido seleccionado: </string>
+    <string name="exit">Salir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="do_u_want_exit">¿Desea cerrar la aplicación?</string>
+    <string name="starting">Iniciando</string>
+    <string name="ready_to_use">Listo para usar</string>
+    <string name="choose">Elegir</string>
+
+</resources>

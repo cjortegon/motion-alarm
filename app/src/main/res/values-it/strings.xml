@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Allarme di Movimento</string>
+    <string name="about">About Us</string>
+    <string name="help">Aiutare</string>
+    <string name="rate">Vota questa app</string>
+    <string name="contact">Contatto</string>
+    <string name="share">Condividere</string>
+    <string name="alarms">Alarms</string>
+    <string name="select_sound">Select sound</string>
+    <string name="about_title">About Mountain Reacher</string>
+    <string name="about_body">Il mio nome è Camilo, io studio Ingegneria dei Sistemi e Telematica Ingegneria ICESI University di Cali, in Colombia.</string>
+    <string name="help_title">Aiutare</string>
+    <string name="help_body">Posizionare il dispositivo su una superficie piana e sensori precione pulsante Calibra per calibrare i sensori. Spostare il dispositivo di scorrimento per impostare il livello di sensibilità, di impostare per quanto tempo si desidera avviare la sveglia (in secondi) e, infine, precione Inizia allarme.</string>
+    <string name="start_alarm_in">Avviare allarme in</string>
+    <string name="turn_off_alarm">Disattivare la allarme</string>
+    <string name="seconds">secondi</string>
+    <string name="calibrate_sensors">Calibrare i sensori</string>
+    <string name="sensibility">Sensori</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="calibrate_title">Calibrazione dei sensori</string>
+    <string name="calibrate_text">Si prega su mueva il dispositivo per 3 secondi.</string>
+    <string name="selected_sound">Suono selezionato: </string>
+    <string name="exit">Uscita</string>
+    <string name="cancel">Cancellare</string>
+    <string name="do_u_want_exit">Vuoi uscire?</string>
+    <string name="starting">Inizio</string>
+    <string name="ready_to_use">pronto all´uso</string>
+    <string name="choose">Scegliere</string>
+
+</resources>
